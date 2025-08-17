@@ -47,8 +47,8 @@ Before running the script, ensure you have:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/Swasthik-Prabhu/aws_python_script.git
+   cd aws_python_script
    ```
 
 2. Run the script:
