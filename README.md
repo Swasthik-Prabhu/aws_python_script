@@ -54,7 +54,7 @@ Before running the script, ensure you have:
 2. Run the script:
 
    ```bash
-   python deploy.py
+   python aws_python_script.py
    ```
 
 3. After successful execution, you’ll see:
